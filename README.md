@@ -23,7 +23,7 @@
 - **[Feb 12, 2025]** We just launched Guardrails Index -- the first of its kind benchmark comparing the performance and latency of 24 guardrails across 6 most common categories! Check out the index at index.guardrailsai.com
 
 # NeuroNest AI Backend Development Assistant
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI backend development assistant designed to help developers build, test, debug, and optimize server-side applications with better efficiency. It supports coding assistance, security review, DevOps automation, technical research, and workflow planning, making it useful for teams creating reliable AI-assisted software systems
 
